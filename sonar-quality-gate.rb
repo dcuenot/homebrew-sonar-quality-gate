@@ -1,4 +1,4 @@
-class Autobrew < Formula
+class SonarQualityGate < Formula
   desc "CLI to get Sonar Quality Gate informations"
   homepage "https://github.com/dcuenot/sonar-qg-in-cli"
   url "https://github.com/dcuenot/sonar-qg-in-cli/releases/download/v0.1.7/sonar-quality-gate-darwin-x86_64"
